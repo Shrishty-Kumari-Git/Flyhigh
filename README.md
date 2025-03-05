@@ -1,1 +1,0 @@
-This project is a PHP-based e-commerce platform that enables users to book tickets for buses, trains, and flights. Deployed securely on an AWS EC2 server, the system utilizes automation tools like Ansible, Terraform, and Jenkins to streamline CI/CD pipelines. Data management is handled through PHPMyAdmin, with a strong emphasis on security, scalability, and high availability.
