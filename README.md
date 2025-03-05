@@ -1,7 +1,7 @@
 ##Flyhigh: E-Commerce Platform for Ticket Booking
 
 #Overview:
-Welcome to Flyhigh – a PHP-based e-commerce platform designed to make ticket booking for buses, trains, and flights a seamless and efficient experience. Whether you're planning a trip or managing your transportation needs, Flyhigh allows users to easily book and manage their tickets all in one place.
+* Welcome to Flyhigh – a PHP-based e-commerce platform designed to make ticket booking for buses, trains, and flights a seamless and efficient experience. Whether you're planning a trip or managing your transportation needs, Flyhigh allows users to easily book and manage their tickets all in one place.
 
 #Features:
 * Multi-modal Ticket Booking: Book tickets for buses, trains, and flights from one integrated platform.
@@ -20,16 +20,16 @@ Welcome to Flyhigh – a PHP-based e-commerce platform designed to make ticket b
 
 
 #Make sure you have the following installed:
-1)PHP (latest stable version)
-2)Composer (for PHP dependency management)
-3)MySQL
-4)Apache or Nginx (for local server)
-5)AWS CLI (if you are deploying on AWS EC2)
-6)Jenkins, Ansible, and Terraform (for CI/CD automation)
+* PHP (latest stable version)
+* Composer (for PHP dependency management)
+* MySQL
+* Apache or Nginx (for local server)
+* AWS CLI (if you are deploying on AWS EC2)
+* Jenkins, Ansible, and Terraform (for CI/CD automation)
 
 #CI/CD Pipeline:
-1)The project uses Jenkins for continuous integration and Terraform & Ansible for automated deployment and configuration management.
-2)Jenkins automates the building, testing, and deployment processes.
-3)Terraform is used to define the infrastructure as code (IaC) for provisioning and managing AWS resources.
-4)Ansible automates server configuration and application deployment.
-5)This ensures that every change is automatically tested, deployed, and ready for production with minimal human intervention.
+* The project uses Jenkins for continuous integration and Terraform & Ansible for automated deployment and configuration management.
+* Jenkins automates the building, testing, and deployment processes.
+* Terraform is used to define the infrastructure as code (IaC) for provisioning and managing AWS resources.
+* Ansible automates server configuration and application deployment.
+* This ensures that every change is automatically tested, deployed, and ready for production with minimal human intervention.
